@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中科弘扬科技有限公司</title>
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box}
+        body{font-family:"微软雅黑",sans-serif;line-height:1.6;color:#333}
+        header{background:#1a3d7c;color:white;padding:20px 5%;text-align:center}
+        nav{background:#2c5299;padding:15px 5%}
+        nav a{color:white;text-decoration:none;margin:0 20px}
+        .container{max-width:1200px;margin:40px auto;padding:0 5%}
+        .section{margin-bottom:60px}
+        h2{color:#1a3d7c;margin-bottom:20px;border-left:5px solid #1a3d7c;padding-left:10px}
+        .footer{background:#222;color:#aaa;text-align:center;padding:30px;margin-top:80px}
+    </style>
+</head>
+<body>
+<header>
+    <h1>中科弘扬科技有限公司</h1>
+    <p>智能机房监测 · 铁路机器人巡检 · 工业自动化解决方案</p >
+</header>
+<nav>
+    <a href=" ">关于我们</a >
+    <a href="#business">业务范围</a >
+    <a href="#qualification">资质荣誉</a >
+    <a href="#contact">联系我们</a >
+</nav>
+<div class="container">
+    <div id="about" class="section">
+        <h2>关于我们</h2>
+        <p>中科弘扬科技是国家级专精特新企业，专注于工业智能监测、智能巡检机器人、自动化控制系统研发与落地，拥有多项专利与正规增值电信经营资质。</p >
+    </div>
+    <div id="business" class="section">
+        <h2>核心业务</h2>
+        <ul style="line-height:2.5;padding-left:20px">
+            <li>数据中心/机房智能化无人监测系统</li>
+            <li>铁路轨道智能巡检机器人设备与服务</li>
+            <li>工业现场自动化成套解决方案</li>
+        </ul>
+    </div>
+    <div id="qualification" class="section">
+        <h2>资质与证书</h2>
+        <p>增值电信业务经营许可证、专精特新认定、多项软件著作权与实用新型专利</p >
+    </div>
+    <div id="contact" class="section">
+        <h2>联系我们</h2>
+        <p>地址：北京市大兴区</p >
+    </div>
+</div>
+<div class="footer">
+    <p>© 中科弘扬科技有限公司 版权所有</p >
+</div>
+</body>
+</html>
